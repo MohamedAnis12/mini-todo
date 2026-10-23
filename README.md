@@ -35,6 +35,11 @@ MiniTodo was built as a practical project to strengthen my Flutter development s
    ```bash
    flutter run
    ```
+## 📱 App Preview
+
+<p align="center">
+  <img src="assets/images/UI2.png" alt="MiniTodo App UI" width="300"/>
+</p>
 
 ## 👨‍💻 Author
 
